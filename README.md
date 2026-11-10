@@ -1,2 +1,2 @@
-# studen-marks-calculator
+# student-marks-calculator
 my first python project - student marks project
